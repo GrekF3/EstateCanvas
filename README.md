@@ -1,4 +1,4 @@
-# Real Estate Showcase
+# EstateCanvas
 
 A Django showcase for residential properties, apartment selection, and mortgage enquiry flows.
 
